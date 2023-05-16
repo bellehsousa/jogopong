@@ -1,2 +1,2 @@
-# jogopong
-jogo pong da sibelle
+# pongtwo
+Jogo pong no JavaScript
